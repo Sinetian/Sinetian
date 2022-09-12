@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sinetian.
+- 👀 I’m interested in C++.
+- 🌱 I’m currently learning algorithms.
+- 📫 How to reach me ...? No!
